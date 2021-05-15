@@ -10,6 +10,15 @@
 |                            이름                             |              역할              |
 | :---------------------------------------------------------: | :----------------------------: |
 |   [kimseongeun1212(김성은)](https://github.com/kimseongeun1212)     |       Tutor 👑        |
+|   [ParkSubin 202010775(박수빈)](https://github.com/ParkSuBin01)     |       Tutee 📚        |
+|   [202010800jaeheonLee(이재헌)](https://github.com/202010800jaeheonLee)     |       Tutee 📚        |
+|   [202010809(정서연)](https://github.com/202010809/JAVA_Mentoring)     |       Tutee 📚        |
+|   [202010814(정유나)](https://github.com/202010814)     |       Tutee 📚        |
+|   [201910085(박소미)](https://github.com/201910085)     |       Tutee 📚        |
+|   [Pluswick(김성한)](https://github.com/Pluswick)     |       Tutee 📚        |
+|   [usedName(김유정)](https://github.com/newoldname)     |       Tutee 📚        |
+|   [201910550(정진아)](https://github.com/201910550)     |       Tutee 📚        |
+
 
 -------------------
 
