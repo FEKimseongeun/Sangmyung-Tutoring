@@ -19,6 +19,8 @@
 |   [usedName(김유정)](https://github.com/newoldname)     |       Tutee 📚        |
 |   [201910550(정진아)](https://github.com/201910550)     |       Tutee 📚        |
 |   [Sudy009(조정현)](https://github.com/Sudy009)     |       Tutee 📚        |
+|   [YeyoonJang(장예윤)](https://github.com/YeyoonJang)     |       Tutee 📚        |
+|   [202010774(박성현)](https://github.com/202010774)     |       Tutee 📚        |
 
 
 -------------------
