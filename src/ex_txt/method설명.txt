@@ -1,0 +1,116 @@
+indexOf()
+replace()
+
+String s="Hello World";
+char[] c=s.charAt(0);
+-> H
+
+String result="java.A chain";
+result=result.concat("is only as strong");  //  java.A chain is only as strong
+result=result.concat("as its weakest link"); //  java.A chain is only as strong as its weakest link
+System.out.println(result);
+=
+System.out.println("java.A chain" + " is only as strong" + "as its weakest link");
+
+String result="java.A chain";
+String anotherString="java.A chain11";
+
+
+Sting s1="Apple";
+Sting s2="Apple";
+Sting s3=new String ("Apple");
+System.out.println(s1==s2));
+System.out.println(s2.equals(s3));
+
+isEmpty()
+for(int i=0; i<str.length;)
+
+
+Object 클래스
+- 모든 클래스들의 조상 클래스
+- 자바에서 모든 클래스는 오브젝트 클래스를 상속받음
+- 오브젝트 클래스에 멤버를 사용
+
+->메서드
+clone() 객체의 복사본 반환
+equals(Object obj) obj롸 같은 객체인지를 비교할 수 있는 거 boolean(false/true)
+finalize() 객체 소멸
+getClass() 클래스 정보를 담고있는 Class 객체를 반환
+hashCode() 해시코드를
+notify() 대기중인 하나의 스레드를 깨웁니다.
+notifyAll() 모든 스레드 깨움
+toString() 문자열 반환
+wait()
+wait(),+1
+
+localtime 클래스
+import java.util.*
+
+LocalTime t=LocalTime.now();
+LocalTime mlt= LocalTime.of(int hour, int minute, int second)
+
+LocalDateTime->날짜 시간 정보를 모두 저장해주는 클래스
+
+LocalDate id=LocalDate.now();
+LocalDate t= id
+             .minusYears(2)
+             .plusMonths(3)
+
+
+컬렉션
+자료구조-> 자료를 저장하기위한 구조에요.
+스택 큐 리스트 집합(set) 해쉬테이블(hash table)
+
+컬렉션 안의 인터페이스
+-> Collection
+Set
+List
+Map
+Queue
+
+제네릭 클래스
+-> 내가 다룰 객체를 미리 명시
+-> 어떤 클래스를 쓸지 모르는데 생성자를 여러개 만들어놓듯
+
+
+ArrayList al=new ArrayList();
+al.add("apple");
+al.add(1);
+
+ArrayList<String> al=new ArrayList<String>();
+al.add("apple")
+al.add(1)//오류
+
+String s=al.get(0);
+
+Set(집합)
+요소들을 집합적으로 모아놓은 자료구조
+-> 중복된 데이터를 가지지 x
+-> 저장 순서를 유지 x
+Set 인터페이스를 구현한 클래스 HashSet,TreeSet
+
+해쉬셋
+HashSet(int capacity) -> 만큼의 용량을 가진 객체를 생성
+add
+get
+
+List
+LinkedList l=new LinkedList();
+
+
+Queue, Stack
+=> 메서드
+add
+element 제일 상단 요소를 반환해주는 메서드
+remove 최상단 요소를 반환 후 제거
+peek() poll
+
+Stack
+=> push(classname item)-> item을 새롭게 추가하겠다.
+=> search(Object c) -> 요소 c가 있는지 검색
+
+Map 인터페이스
+
+
+
+
